@@ -126,12 +126,10 @@ class AhorcadoGUI:
     def guardar_partida_automaticamente(self):
         while True:
             if self.partida_terminada:
-                # No es necesario guardar si la partida ha terminado
                 continue
-            # Comprobar si la partida ha cambiado desde el último guardado
             if self.palabra != self.leer_palabra_guardada() or self.letras_adivinadas != self.leer_letras_guardadas() or self.intentos != self.leer_intentos_guardados():
                 self.guardar_estado()
-            # Dormir durante un tiempo antes de verificar de nuevo
+            
             threading.Event().wait(10)
 
     def leer_palabra_guardada(self):
