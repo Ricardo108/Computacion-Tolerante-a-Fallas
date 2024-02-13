@@ -1,6 +1,7 @@
 import tkinter as tk
 import pickle
 import threading
+from concurrent.futures import ThreadPoolExecutor
 
 class AhorcadoGUI:
     def __init__(self, master):
@@ -42,9 +43,8 @@ class AhorcadoGUI:
         self.cargar_partida()
 
         # Hilo para guardar automáticamente la partida
-        self.thread_guardar_partida = threading.Thread(target=self.guardar_partida_automaticamente)
-        self.thread_guardar_partida.daemon = True
-        self.thread_guardar_partida.start()
+        self.executor = ThreadPoolExecutor(max_workers=1)
+        self.executor.submit(self.guardar_partida_automaticamente)
 
     def iniciar_nueva_partida(self):
         self.palabra_a_adivinar.set("")  # Borra la palabra a adivinar
