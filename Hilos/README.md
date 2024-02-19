@@ -10,7 +10,7 @@
   <title>Logo UDG</title>
   <style>
     img {
-      width: 200px;
+      width: 50px;
       height: auto;
     }
   </style>
