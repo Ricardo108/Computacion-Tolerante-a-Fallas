@@ -3,4 +3,5 @@
 # Universidad de Guadalajara
 
 
-![Logo UDG](/Hilos/image.png =200x)
+<img src="/Hilos/image.png" alt="Logo UDG" width="200" />
+
