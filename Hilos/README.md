@@ -17,7 +17,7 @@
 </head>
 <body>
   <div>
-    <img src="/Computacion-Tolerante-a-Fallas/Hilos/image.png" alt="Logo UDG" />
+    <img src="/Hilos/image.png" alt="Logo UDG" />
   </div>
 </body>
 </html>
