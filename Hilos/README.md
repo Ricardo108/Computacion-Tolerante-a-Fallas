@@ -16,15 +16,15 @@
 
 
 # Hilos
-Los hilos son una secuencia de instrucciones que puede ser ejecutada por el sistema operativo
+    Los hilos son una secuencia de instrucciones que puede ser ejecutada por el sistema operativo
 
 # Demonios
-Es un proceso en segundo plano que se ejecuta sin interaccion con el usuario o con otros programas.
+    Es un proceso en segundo plano que se ejecuta sin interaccion con el usuario o con otros programas.
 
 # Concurrencia
-Es la capacidad de un programa para realizar varias tareas simultaneamente.
+    Es la capacidad de un programa para realizar varias tareas simultaneamente.
 
-   # Desarrollo
+# Desarrollo
 
 # Hilos
 Los hilos en este programa (juego del ahorcado) se utiliza en variois puntos del codigo, por ejemplo, en la parte del metodo "guardar_partida_automaticamente"
