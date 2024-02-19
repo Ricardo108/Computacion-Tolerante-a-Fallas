@@ -3,5 +3,7 @@
 # Universidad de Guadalajara
 
 
-<img src="/Hilos/image.png" alt="Logo UDG" width="200" />
+<div style="text-align: center;">
+  <img src="/Hilos/image.png" alt="Logo UDG" width="200" />
+</div>
 
