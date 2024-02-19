@@ -2,6 +2,7 @@ import tkinter as tk
 import pickle
 import threading
 from concurrent.futures import ThreadPoolExecutor
+from concurrent.futures import ThreadPoolExecutor
 
 class AhorcadoGUI:
     def __init__(self, master):
