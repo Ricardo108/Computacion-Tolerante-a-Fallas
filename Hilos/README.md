@@ -59,3 +59,8 @@ Aqui se volvio a abrir, por eso, no aparecen los intentos restantes, pero puede 
 <div style="text-align: center;">
   <img src="/Hilos/Imagenes/image-4.png" />
 </div>
+
+# Conclusion
+Es muy importante conocer estos temas de los hilos, demonios y de concurrencia, ya que asi podras realizar programas mas optimos, por dar un ejemplo, los hilos
+nos permitiran que un programa realice varias tareas simultaneamente, esto en pocas palabras es mayor rendimiento y eficacia. Ademas los hilos comparten la memoria y otros
+recursos de un proceso, lo cual hace que sean mas eficientes que los procesos separados.
