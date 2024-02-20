@@ -42,20 +42,20 @@ pueden ser terminados cuando la apliacion principal finaliza.
 # Ejecucion
 Asi se ve el juego antes de iniciar una partida.
 <div style="text-align: center;">
-  <img src="/Hilos/image-1.png" width="200" />
+  <img src="/Hilos/image-1.png" />
 </div>
 
 Aqui ya se le asigno una palabra a adivinar.
 <div style="text-align: center;">
-  <img src="/Hilos/image-2.png" width="200" />
+  <img src="/Hilos/image-2.png" />
 </div>
 
 En esta parte del juego, ya se abra guardado la partida por si se llegara a cerrar el juego, como se observa, esta a punto de ganar.
 <div style="text-align: center;">
-  <img src="/Hilos/image-3.png" width="200" />
+  <img src="/Hilos/image-3.png" />
 </div>
 
 Aqui se volvio a abrir, por eso, no aparecen los intentos restantes, pero puede continuar donde lo dejo.
 <div style="text-align: center;">
-  <img src="/Hilos/image-4.png" width="200" />
+  <img src="/Hilos/image-4.png" />
 </div>
