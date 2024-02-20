@@ -55,7 +55,7 @@ En esta parte del juego, ya se habra guardado la partida por si se llegara a cer
   <img src="/Hilos/Imagenes/image-3.png" />
 </div>
 
-Aqui se volvio a abrir, por eso, no aparecen los intentos restantes, pero puede continuar donde lo dejo.
+Aqui se volvio a abrir, por eso, no aparecen los intentos restantes en color rojo como advertencia, pero puede continuar donde lo dejo.
 <div style="text-align: center;">
   <img src="/Hilos/Imagenes/image-4.png" />
 </div>
