@@ -50,7 +50,7 @@ Aqui ya se le asigno una palabra a adivinar.
   <img src="/Hilos/Imagenes/image-2.png" />
 </div>
 
-En esta parte del juego, ya se abra guardado la partida por si se llegara a cerrar el juego, como se observa, esta a punto de ganar.
+En esta parte del juego, ya se habra guardado la partida por si se llegara a cerrar el juego, como se observa, esta a punto de ganar.
 <div style="text-align: center;">
   <img src="/Hilos/Imagenes/image-3.png" />
 </div>
