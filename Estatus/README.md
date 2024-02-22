@@ -21,7 +21,7 @@ Ademas de que al ser independientes del usuario, no pretenden interactuar con el
 
 # Juego del ahorcado
 <div style="text-align: center;">
-  <img src="/Estatus/Imagenes/image1.png"  width="500" />
+  <img src="/Estatus/Imagenes/image1.png"  width="1000" />
 </div>
 
 Como se observa en la imagen y al ser la primera vez que realizo el nombre del servicio quedo como "tu_programa"
