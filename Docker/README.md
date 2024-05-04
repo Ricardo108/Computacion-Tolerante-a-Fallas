@@ -33,7 +33,7 @@ Para poder utilizar Docker, se debera de instalar (en Windows) la apliacion desd
 
 Una vez descargado esto, se descaragara una distribucion de Linux, en este caso se escogio Ubuntu.
 
-<img src="Docker/Imagenes/Image2.png" />
+<img src="Imagenes/Image2.png" />
 
 Cuando se haya instalado te pedira que ingreses un usuario y contraseña, luego de eso, tienes que abrir docker.
 
