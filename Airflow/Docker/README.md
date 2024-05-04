@@ -59,7 +59,6 @@ Se debe de agregar la palabra "sudo" al inicio, para que puedas dar permisos de 
 Esta actividad me trajo muchos problemas al instalarlo, porque no sabia bien de los errores que me arrojaba, pero con un poco de investigación podia saber como solucionarlo, eso si, quise hacerlo desde una maquina virtual, pero me daba mas problemas, por eso, instale todo esto desde windows, ademas de que te permite utilizar Linux, como un subsistema y eso facilita las cosas.
 
 # Bibliografia
-
     Docker Desktop: The #1 Containerization Tool for Developers | Docker. (2023, 21 diciembre). Docker. https://www.docker.com/products/docker-desktop/
 
     Craigloewen-Msft. (2023, 20 noviembre). Manual installation steps for older versions of WSL. Microsoft Learn. https://learn.microsoft.com/en-us/windows/wsl/install-manual
