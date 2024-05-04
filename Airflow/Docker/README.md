@@ -10,7 +10,7 @@
 
 # Nombre: Rodriguez de León Ricardo Emmanuel
 
-<h1 align="center"> Construcción de tu Traductor </h1>
+<h1 align="center"> Instalacion y Uso basico de Docker </h1>
 
 # Indice
 
@@ -18,6 +18,9 @@
 
 * [Contenido](#contenido)
 
+* [Conclusion](#conclusion)
+
+* [Bibliografia](#bibliografia)
 
 
 # Introduccion
