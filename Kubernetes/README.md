@@ -35,7 +35,8 @@ Kubernetes ofrece un entorno de administracion centrado en contenedores. Kuberne
 
 ### ¿Por qué usar contenedores?
 
-<img src="Imagenes/Image2.png" />
+![alt text](image2.png)
+
 
 La Manera Antigua de desplegar aplicaciones era instalarlas en un servidor usando el administrador de paquetes del sistema operativo. La desventaja era que los ejecutables, la configuración, las librerías y el ciclo de vida de todos estos componentes se entretejían unos a otros. Podíamos construir imágenes de máquina virtual inmutables para tener rollouts y rollbacks predecibles, pero las máquinas virtuales son pesadas y poco portables.
 
@@ -92,13 +93,13 @@ kubectl expose deployment containerprueba --type=LoadBalancer --port=8090
 kubectl port-forward pod/<nombre pod> 8091:80
 8. Para acceder a la aplicación contenorizada y kubernetizada:
 http://localhost:8091/pagina.html
-<img src="Imagenes/Image5.png" />
+![alt text](image5.png)
 
 ### ¿Qué es un Ingress?
 Un Ingress expone rutas HTTP y HTTPS desde el exterior del clúster a los servicios dentro del clúster. El control del tráfico es controlado por las reglas definidas en el recurso Ingress.
 
 Ejemplo:
-<img src="Imagenes/Image3.png" />
+![alt text](image3.png)
 
 Un Ingress se puede configurar para otorgar URLs a los Services que son accesibles desde el exterior, para hacer balance de cargas del tráfico, finalizar SSL/TLS y ofrecer alojamiento virtual basado en nombres.
 
@@ -154,7 +155,7 @@ Un oyente comprueba las solicitudes de conexión de los clientes mediante el pro
 Cada grupo de destino direcciona las solicitudes a uno o varios destinos registrados (tales como instancias EC2) utilizando el protocolo y el número de puerto que ha especificado. Puede registrar un destino en varios grupos de destino. Puede configurar las comprobaciones de estado de cada grupo de destino. Las comprobaciones de estado se llevan a cabo en todos los destinos registrados en un grupo de destino especificado en la regla del oyente del equilibrador de carga.
 
 Ejemplo:
-<img src="Imagenes/Image4.png" />
+![alt text](image4.png)
 
 # Conclusion
 Cada uno de los temas que se vieron tienen algo muy importante, ademas de que a como lo entendi se complementan unos a otros, ya que los Kubernetes sirven para administrar los trabajos y los servicios, ademas de que nos ayuda a la automatizacion, mientras que Ingress es una API, que administra el acceso externos a los servicios en un cluster, y por ultimo esta el Load Balancer que nos ayuda a tener un equilibrio para la carga del trafico entre servidores y esto nos permite mejorar el tiempo de actividad.
@@ -165,5 +166,4 @@ Cada uno de los temas que se vieron tienen algo muy importante, ademas de que a 
     Ingress. (2024, 10 marzo). Kubernetes. https://kubernetes.io/es/docs/concepts/services-networking/ingress/
 
     Load Balancer | IBM. (s. f.). https://www.ibm.com/mx-es/products/load-balancer
-
-    ¿Qué es un Equilibrador de carga de aplicación? - Elastic Load Balancing. (s. f.). https://docs.aws.amazon.com/es_es/elasticloadbalancing/latest/application/introduction.html
+    
