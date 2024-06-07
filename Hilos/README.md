@@ -4,7 +4,7 @@
 # UNIVERSIDAD DE GUADALAJARA
 
 <div style="text-align: center;">
-  <img src="/Hilos/Imagenes/image.png" alt="Logo UDG" width="200" />
+  <img src="image.png" alt="Logo UDG" width="200" />
 </div>
 
 # Nombre: Rodriguez de Leon Ricardo Emmanuel
